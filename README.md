@@ -1,2 +1,2 @@
-# HCI-Project-Diet-Planner
+# Diet Planner
 SER 594 - HCI Project 
